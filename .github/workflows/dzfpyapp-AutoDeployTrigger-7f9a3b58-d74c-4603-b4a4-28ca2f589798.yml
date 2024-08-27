@@ -7,7 +7,7 @@ on:
     branches: 
       [ main ]
     paths:
-    - '**'
+    - 'src/**'
     - '.github/workflows/dzfpyapp-AutoDeployTrigger-7f9a3b58-d74c-4603-b4a4-28ca2f589798.yml'
 
   # Allow manual trigger 
